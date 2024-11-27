@@ -55,6 +55,9 @@ body {
 .search button img {
     width: 16px;
 }
+.search button:hover{
+    transform: scale(1.2);
+}
 
 .weather-icon {
     width: 170px;
